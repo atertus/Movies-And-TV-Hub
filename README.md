@@ -39,4 +39,5 @@ The app dashboard includes three summary statistics about the displayed data:
 - Both charts are incorporated into the dashboard view of the site.
 - Each chart describes a different aspect of the dataset, providing insights into the data.
 
+https://moviehq.netlify.app/
 
