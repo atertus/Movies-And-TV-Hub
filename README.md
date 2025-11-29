@@ -38,4 +38,5 @@ The app dashboard includes three summary statistics about the displayed data:
   - **Chart 2**: Shows the number of movies or TV shows released per year.
 - Both charts are incorporated into the dashboard view of the site.
 - Each chart describes a different aspect of the dataset, providing insights into the data.
+![ezgif-8ef94c7a055292](https://github.com/user-attachments/assets/c5028330-7bf8-4ca7-b409-ede009c4c485)
 
